@@ -1,0 +1,6 @@
+{
+    "homepage": "https://baptizedandordained.com",
+    "scripts": {
+      "shorten": "netlify-shortener"
+    }
+  }
