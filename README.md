@@ -1,4 +1,4 @@
-## LPCVA Domain name redirect.
+## Baptized and Ordained Dot Com Domain name redirect.
 
 ## This solution
 
